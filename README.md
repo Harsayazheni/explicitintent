@@ -11,18 +11,31 @@ To create a two screens , first screen will take one number input from user. Aft
 Latest Version Android Studio
 
 ## ALGORITHM:
+Step 1: Create a New Project in Android Studio
 
+Step 2: Working with the activity_main.xml File
+
+Step 3: Working with the MainActivity File
+
+Step 4: Working with the activity_main2.xml File
+
+Step 5: Working with the MainActivity2 File
 
 
 ## PROGRAM:
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by:
-Registeration Number :
+Developed by: Harsayazheni P Y
+Registeration Number : 212222040052
 */
 ```
-
+### In activity_main.xml
+```
+```
+### In MainActivity.java
+```
+```
 ## OUTPUT
 
 
