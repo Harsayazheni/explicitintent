@@ -194,6 +194,8 @@ public class MainActivity2 extends AppCompatActivity {
 }
 ```
 ## OUTPUT
+![311743318-b6a2f370-a09b-46aa-b567-07e9069fb055](https://github.com/Harsayazheni/explicitintent/assets/118708467/a845e2bb-07bc-4bb0-b52c-a44af3190712)
+![311743386-e37e801b-dcfa-4e33-b95a-00d414d34858](https://github.com/Harsayazheni/explicitintent/assets/118708467/5950ed4b-1c6c-4261-800b-c34a6e1de297)
 
 
 
